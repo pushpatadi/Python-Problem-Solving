@@ -20,11 +20,24 @@ This repository contains the beginner Python programs I solved while learning Py
 - Celsius to Fahrenheit Converter
 - Student Marks (Total & Average)
 - Swap Two Numbers
+- Even or Odd Number
+- Positive, Negetive or Zero
+- Voting Eligibility Checker
+- Student Grade Calculator
+- Largest of Two Numbers
+- Largest of Three Numbers
+- Leap Year Checker
+- Character Checker
+- Vowel or Consonant
+- Number Size Checker
+  
+
 
 ---
 
 ## 📂 Programs
 
+### ☑️ Complete Problems
 - ✅ Problem 1
 - ✅ Problem 2
 - ✅ Problem 3
@@ -35,7 +48,16 @@ This repository contains the beginner Python programs I solved while learning Py
 - ✅ Problem 8
 - ✅ Problem 9
 - ✅ Problem 10
-
+- ✅ Problem 11
+- ✅ Problem 12
+- ✅ Problem 13
+- ✅ Problem 14
+- ✅ Problem 15
+- ✅ Problem 16
+- ✅ Problem 17
+- ✅ Problem 18
+- ✅ Problem 19
+- ✅ Problem 20
 ---
 
 ## 🎯 Goal
