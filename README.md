@@ -30,8 +30,13 @@ This repository contains the beginner Python programs I solved while learning Py
 - Character Checker
 - Vowel or Consonant
 - Number Size Checker
+- Nested if
+- User Authentication
+- ATM Withdrawal Logic
+- Student Result Checker
+- Voter Eligibility Checker
+- Login System with OTP
   
-
 
 ---
 
@@ -58,6 +63,12 @@ This repository contains the beginner Python programs I solved while learning Py
 - ✅ Problem 18
 - ✅ Problem 19
 - ✅ Problem 20
+- ☑️ Problem 21
+- ☑️ Problem 22
+- ☑️ Problem 23
+- ☑️ Problem 24
+- ☑️ Problem 25
+  
 ---
 
 ## 🎯 Goal
