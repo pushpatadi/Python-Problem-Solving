@@ -36,6 +36,14 @@ This repository contains the beginner Python programs I solved while learning Py
 - Student Result Checker
 - Voter Eligibility Checker
 - Login System with OTP
+- Strings
+- String Input
+- String Indexing
+- Accessing Characters Using Index
+- Displaying Individual Characters
+- User Input with Strings
+- Basic String Practice Problems
+- 
   
 
 ---
@@ -68,6 +76,12 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 23
 - ☑️ Problem 24
 - ☑️ Problem 25
+- ☑️ Problem 26
+- ☑️ Problem 27
+- ☑️ Problem 28
+- ☑️ Problem 29
+- ☑️ Problem 30
+
   
 ---
 
