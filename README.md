@@ -43,6 +43,13 @@ This repository contains the beginner Python programs I solved while learning Py
 - Displaying Individual Characters
 - User Input with Strings
 - Basic String Practice Problems
+- String Slicing
+- Positive Slicing
+- Negative Slicing
+- Step Slicing
+- String Indexing Revision
+
+  
 - 
   
 
@@ -81,6 +88,12 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 28
 - ☑️ Problem 29
 - ☑️ Problem 30
+- ☑️ Problem 31
+- ☑️ Problem 32
+- ☑️ Problem 33
+- ☑️ Problem 34
+- ☑️ Problem 35
+  
 
   
 ---
