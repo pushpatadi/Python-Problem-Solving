@@ -48,6 +48,12 @@ This repository contains the beginner Python programs I solved while learning Py
 - Negative Slicing
 - Step Slicing
 - String Indexing Revision
+- Reverse string using Slicing
+- First Character
+- Last Character
+- first 3 Characters
+- last 3 Characters
+- 
 
   
 - 
@@ -93,7 +99,11 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 33
 - ☑️ Problem 34
 - ☑️ Problem 35
-  
+- ☑️ Problem 36
+- ☑️ Problem 37
+- ☑️ Problem 38
+- ☑️ Problem 39
+- ☑️ Problem 40
 
   
 ---
