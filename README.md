@@ -63,11 +63,8 @@ This repository contains the beginner Python programs I solved while learning Py
 - Odd Number Logic (% Operator)
 - Multiplication Table using for Loop
 - Reverse Counting using range()
+- Fizz & Buzz Logic
 
-- 
-  
-
----
 
 ## 📂 Programs
 
@@ -117,9 +114,26 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 43
 - ☑️ Problem 44
 - ☑️ Problem 45
+- ☑️ Problem 46
+- ☑️ Ptoblem 47
+- ☑️ Problem 48
+- ☑️ Problem 49
+- ☑️ Problem 50
 
   
 ---
+
+## 🏏 Milestone Achieved
+
+- ✅ 50 Python Problems Solved
+- ✅ Improved Logic Building
+- ✅ Practiced Loops
+- ✅ Practiced break & continue
+- ✅ Built a Number Guessing Game 🎮
+
+🎯 Next Target: 100 Python Problems
+
+
 
 ## 🎯 Goal
 
