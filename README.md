@@ -53,9 +53,17 @@ This repository contains the beginner Python programs I solved while learning Py
 - Last Character
 - first 3 Characters
 - last 3 Characters
-- 
+- for Loop
+- while Loop
+- break Statement
+- continue Statement
+- Nested Loops (Basics)
+- range() Function
+- Even Number Logic (% Operator)
+- Odd Number Logic (% Operator)
+- Multiplication Table using for Loop
+- Reverse Counting using range()
 
-  
 - 
   
 
@@ -104,6 +112,11 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 38
 - ☑️ Problem 39
 - ☑️ Problem 40
+- ☑️ Problem 41
+- ☑️ Problem 42
+- ☑️ Problem 43
+- ☑️ Problem 44
+- ☑️ Problem 45
 
   
 ---
