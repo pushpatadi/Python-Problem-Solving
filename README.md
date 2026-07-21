@@ -144,17 +144,16 @@ This repository contains the beginner Python programs I solved while learning Py
   
 ---
 
-## 🏏 Milestone Achieved
 
-- ✅ 50 Python Problems Solved
-- ✅ Improved Logic Building
-- ✅ Practiced Loops
-- ✅ Practiced break & continue
-- ✅ Built a Number Guessing Game 🎮
-
-🎯 Next Target: 100 Python Problems
+🎯 Next Milestone: 100 Python Problems
 
 
+🏅 Milestone #1 Completed
+
+📌 Problems Solved: 60/100
+📌 Current Level: Python Foundation
+📌 Status: In Progress 🚀
+📌 Next Target: 100 Problems
 
 ## 🎯 Goal
 
