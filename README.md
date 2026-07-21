@@ -64,6 +64,17 @@ This repository contains the beginner Python programs I solved while learning Py
 - Multiplication Table using for Loop
 - Reverse Counting using range()
 - Fizz & Buzz Logic
+- Reverse Counting using while loop
+- even numbers using while loop
+- sum of numbers using while loop
+- Password Validation using while loop
+- number guessing game using while loop
+- Input Validation using User Input
+- Loop Control using User Input
+- Infinite Loop Preventation
+- While Loop Logic Building
+
+
 
 
 ## 📂 Programs
@@ -119,6 +130,16 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 48
 - ☑️ Problem 49
 - ☑️ Problem 50
+- ☑️ Problem 51
+- ☑️ Problem 52
+- ☑️ Problem 53
+- ☑️ Problem 54
+- ☑️ Problem 55
+- ☑️ Problem 56
+- ☑️ Problem 57
+- ☑️ Problem 58
+- ☑️ Problem 59
+- ☑️ Problem 60
 
   
 ---
