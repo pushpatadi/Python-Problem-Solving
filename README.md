@@ -73,6 +73,16 @@ This repository contains the beginner Python programs I solved while learning Py
 - Loop Control using User Input
 - Infinite Loop Preventation
 - While Loop Logic Building
+  - Introduction to Functions
+- def Keyword
+- Function Definition
+- Function Call
+- Parameters
+- Arguments
+- Multiple Parameters
+- Return Statement
+- Difference between print() and return
+- Functions with if-else
 
 
 
@@ -140,9 +150,13 @@ This repository contains the beginner Python programs I solved while learning Py
 - ☑️ Problem 58
 - ☑️ Problem 59
 - ☑️ Problem 60
-
+- ☑️ Problem 61
+- ☑️ Problem 62
+- ☑️ Problem 63
+- ☑️ Problem 64
+- ☑️ Problem 65
   
----
+  
 
 
 🎯 Next Milestone: 100 Python Problems
